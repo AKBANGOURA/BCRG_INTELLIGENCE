@@ -10,6 +10,7 @@
 ## 📋 Présentation
 Le **SIPRE** (Système Intégré de Pilotage et Résilience) est un cockpit décisionnel développé pour la **Banque Centrale de la République de Guinée (BCRG)**. Cet outil permet de simuler des chocs économiques mondiaux et d'en visualiser l'impact immédiat sur les équilibres macroéconomiques du pays.
 
+Lien de l'application BCRG - SIPRE | Horizon 2026 · Streamlit
 
 
 ## 🚀 Fonctionnalités Clés
